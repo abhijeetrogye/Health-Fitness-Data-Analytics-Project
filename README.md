@@ -158,7 +158,6 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 📦 Health-Fitness-Data-Analytics-Project
 ├── 📓 data_analytics_project.ipynb    # Main notebook (75 cells)
 ├── 📊 hamon_googlefit_medical_realistic.csv  # Dataset (90K records)
-├── 📄 data_summary.txt               # Dataset summary statistics
 ├── 📄 .gitignore                      # Git ignore rules
 └── 📄 README.md                       # This file
 ```
